@@ -7,4 +7,4 @@ solved: 5
 
 [个人主页](https://www.hackerrank.com/felixyoungzz)  
 
-solved: 3
+solved: 4
